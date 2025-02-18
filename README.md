@@ -693,6 +693,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Marvelous MLOps](https://marvelousmlops.substack.com)
 1. [Made with ML](https://madewithml.com/misc/newsletter/)
 1. [MLOps Insights Newsletter - 8 episodes covering topics like Model Feedback Vacuums, Deployment Reproducibility and Serverless in the context of MLOps](https://mlopsinsights.com/)
+1. [BuzzRobot AI Newsletter. Exclusive talks by top researchers from Google DeepMind, OpenAI, Meta, and others, on cutting-edge artificial intelligence (AI) papers.](https://buzzrobot.substack.com/)
 </details>
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
